@@ -1,0 +1,19 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode", 
+    "C_Cpp.default.intelliSenseMode": "gcc-x86",
+    "files.associations": {
+        "stdlib.h": "c",
+        "module_dns.h": "c",
+        "stdio.h": "c",
+        "libc-header-start.h": "c",
+        "xalloc.h": "c",
+        "probe_modules.h": "c",
+        "logger.h": "c",
+        "stdint.h": "c",
+        "unistd.h": "c",
+        "assert.h": "c",
+        "includes.h": "c",
+        "module_udp.h": "c",
+        "fieldset.h": "c"
+    }
+}

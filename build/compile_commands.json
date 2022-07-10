@@ -1,0 +1,472 @@
+[
+{
+  "directory": "/root/workspace/zmap/build/lib",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmaplib.dir/blocklist.c.o   -c /root/workspace/zmap/lib/blocklist.c",
+  "file": "/root/workspace/zmap/lib/blocklist.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/lib",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmaplib.dir/constraint.c.o   -c /root/workspace/zmap/lib/constraint.c",
+  "file": "/root/workspace/zmap/lib/constraint.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/lib",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmaplib.dir/logger.c.o   -c /root/workspace/zmap/lib/logger.c",
+  "file": "/root/workspace/zmap/lib/logger.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/lib",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmaplib.dir/pbm.c.o   -c /root/workspace/zmap/lib/pbm.c",
+  "file": "/root/workspace/zmap/lib/pbm.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/lib",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmaplib.dir/random.c.o   -c /root/workspace/zmap/lib/random.c",
+  "file": "/root/workspace/zmap/lib/random.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/lib",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmaplib.dir/rijndael-alg-fst.c.o   -c /root/workspace/zmap/lib/rijndael-alg-fst.c",
+  "file": "/root/workspace/zmap/lib/rijndael-alg-fst.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/lib",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmaplib.dir/xalloc.c.o   -c /root/workspace/zmap/lib/xalloc.c",
+  "file": "/root/workspace/zmap/lib/xalloc.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/lib",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmaplib.dir/lockfd.c.o   -c /root/workspace/zmap/lib/lockfd.c",
+  "file": "/root/workspace/zmap/lib/lockfd.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/lib",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmaplib.dir/util.c.o   -c /root/workspace/zmap/lib/util.c",
+  "file": "/root/workspace/zmap/lib/util.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/lib",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmaplib.dir/queue.c.o   -c /root/workspace/zmap/lib/queue.c",
+  "file": "/root/workspace/zmap/lib/queue.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/lib",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmaplib.dir/csv.c.o   -c /root/workspace/zmap/lib/csv.c",
+  "file": "/root/workspace/zmap/lib/csv.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/aesrand.c.o   -c /root/workspace/zmap/src/aesrand.c",
+  "file": "/root/workspace/zmap/src/aesrand.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/cyclic.c.o   -c /root/workspace/zmap/src/cyclic.c",
+  "file": "/root/workspace/zmap/src/cyclic.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/expression.c.o   -c /root/workspace/zmap/src/expression.c",
+  "file": "/root/workspace/zmap/src/expression.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/fieldset.c.o   -c /root/workspace/zmap/src/fieldset.c",
+  "file": "/root/workspace/zmap/src/fieldset.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/filter.c.o   -c /root/workspace/zmap/src/filter.c",
+  "file": "/root/workspace/zmap/src/filter.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/get_gateway.c.o   -c /root/workspace/zmap/src/get_gateway.c",
+  "file": "/root/workspace/zmap/src/get_gateway.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/iterator.c.o   -c /root/workspace/zmap/src/iterator.c",
+  "file": "/root/workspace/zmap/src/iterator.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/monitor.c.o   -c /root/workspace/zmap/src/monitor.c",
+  "file": "/root/workspace/zmap/src/monitor.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/recv.c.o   -c /root/workspace/zmap/src/recv.c",
+  "file": "/root/workspace/zmap/src/recv.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/send.c.o   -c /root/workspace/zmap/src/send.c",
+  "file": "/root/workspace/zmap/src/send.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/shard.c.o   -c /root/workspace/zmap/src/shard.c",
+  "file": "/root/workspace/zmap/src/shard.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/socket.c.o   -c /root/workspace/zmap/src/socket.c",
+  "file": "/root/workspace/zmap/src/socket.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/state.c.o   -c /root/workspace/zmap/src/state.c",
+  "file": "/root/workspace/zmap/src/state.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/summary.c.o   -c /root/workspace/zmap/src/summary.c",
+  "file": "/root/workspace/zmap/src/summary.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/utility.c.o   -c /root/workspace/zmap/src/utility.c",
+  "file": "/root/workspace/zmap/src/utility.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/validate.c.o   -c /root/workspace/zmap/src/validate.c",
+  "file": "/root/workspace/zmap/src/validate.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/zmap.c.o   -c /root/workspace/zmap/src/zmap.c",
+  "file": "/root/workspace/zmap/src/zmap.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/zopt_compat.c.o   -c /root/workspace/zmap/src/zopt_compat.c",
+  "file": "/root/workspace/zmap/src/zopt_compat.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/lexer.c.o   -c /root/workspace/zmap/build/src/lexer.c",
+  "file": "/root/workspace/zmap/build/src/lexer.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/parser.c.o   -c /root/workspace/zmap/build/src/parser.c",
+  "file": "/root/workspace/zmap/build/src/parser.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/probe_modules/module_icmp_echo.c.o   -c /root/workspace/zmap/src/probe_modules/module_icmp_echo.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_icmp_echo.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/probe_modules/module_icmp_echo_time.c.o   -c /root/workspace/zmap/src/probe_modules/module_icmp_echo_time.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_icmp_echo_time.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/probe_modules/module_tcp_synscan.c.o   -c /root/workspace/zmap/src/probe_modules/module_tcp_synscan.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_tcp_synscan.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/probe_modules/module_tcp_synackscan.c.o   -c /root/workspace/zmap/src/probe_modules/module_tcp_synackscan.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_tcp_synackscan.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/probe_modules/module_udp.c.o   -c /root/workspace/zmap/src/probe_modules/module_udp.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_udp.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/probe_modules/packet.c.o   -c /root/workspace/zmap/src/probe_modules/packet.c",
+  "file": "/root/workspace/zmap/src/probe_modules/packet.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/probe_modules/probe_modules.c.o   -c /root/workspace/zmap/src/probe_modules/probe_modules.c",
+  "file": "/root/workspace/zmap/src/probe_modules/probe_modules.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/probe_modules/module_ntp.c.o   -c /root/workspace/zmap/src/probe_modules/module_ntp.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_ntp.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/probe_modules/module_upnp.c.o   -c /root/workspace/zmap/src/probe_modules/module_upnp.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_upnp.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/probe_modules/module_dns.c.o   -c /root/workspace/zmap/src/probe_modules/module_dns.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_dns.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/probe_modules/module_bacnet.c.o   -c /root/workspace/zmap/src/probe_modules/module_bacnet.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_bacnet.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/output_modules/module_csv.c.o   -c /root/workspace/zmap/src/output_modules/module_csv.c",
+  "file": "/root/workspace/zmap/src/output_modules/module_csv.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/output_modules/module_json.c.o   -c /root/workspace/zmap/src/output_modules/module_json.c",
+  "file": "/root/workspace/zmap/src/output_modules/module_json.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/output_modules/output_modules.c.o   -c /root/workspace/zmap/src/output_modules/output_modules.c",
+  "file": "/root/workspace/zmap/src/output_modules/output_modules.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/socket-linux.c.o   -c /root/workspace/zmap/src/socket-linux.c",
+  "file": "/root/workspace/zmap/src/socket-linux.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zmap.dir/recv-pcap.c.o   -c /root/workspace/zmap/src/recv-pcap.c",
+  "file": "/root/workspace/zmap/src/recv-pcap.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zblocklist.dir/zblocklist.c.o   -c /root/workspace/zmap/src/zblocklist.c",
+  "file": "/root/workspace/zmap/src/zblocklist.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/zblocklist.dir/zbopt_compat.c.o   -c /root/workspace/zmap/src/zbopt_compat.c",
+  "file": "/root/workspace/zmap/src/zbopt_compat.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ziterate.dir/aesrand.c.o   -c /root/workspace/zmap/src/aesrand.c",
+  "file": "/root/workspace/zmap/src/aesrand.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ziterate.dir/cyclic.c.o   -c /root/workspace/zmap/src/cyclic.c",
+  "file": "/root/workspace/zmap/src/cyclic.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ziterate.dir/iterator.c.o   -c /root/workspace/zmap/src/iterator.c",
+  "file": "/root/workspace/zmap/src/iterator.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ziterate.dir/shard.c.o   -c /root/workspace/zmap/src/shard.c",
+  "file": "/root/workspace/zmap/src/shard.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ziterate.dir/state.c.o   -c /root/workspace/zmap/src/state.c",
+  "file": "/root/workspace/zmap/src/state.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ziterate.dir/validate.c.o   -c /root/workspace/zmap/src/validate.c",
+  "file": "/root/workspace/zmap/src/validate.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ziterate.dir/zitopt_compat.c.o   -c /root/workspace/zmap/src/zitopt_compat.c",
+  "file": "/root/workspace/zmap/src/zitopt_compat.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ziterate.dir/ziterate.c.o   -c /root/workspace/zmap/src/ziterate.c",
+  "file": "/root/workspace/zmap/src/ziterate.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztee.dir/ztee.c.o   -c /root/workspace/zmap/src/ztee.c",
+  "file": "/root/workspace/zmap/src/ztee.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztee.dir/topt_compat.c.o   -c /root/workspace/zmap/src/topt_compat.c",
+  "file": "/root/workspace/zmap/src/topt_compat.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/aesrand.c.o   -c /root/workspace/zmap/src/aesrand.c",
+  "file": "/root/workspace/zmap/src/aesrand.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/cyclic.c.o   -c /root/workspace/zmap/src/cyclic.c",
+  "file": "/root/workspace/zmap/src/cyclic.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/expression.c.o   -c /root/workspace/zmap/src/expression.c",
+  "file": "/root/workspace/zmap/src/expression.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/fieldset.c.o   -c /root/workspace/zmap/src/fieldset.c",
+  "file": "/root/workspace/zmap/src/fieldset.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/filter.c.o   -c /root/workspace/zmap/src/filter.c",
+  "file": "/root/workspace/zmap/src/filter.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/get_gateway.c.o   -c /root/workspace/zmap/src/get_gateway.c",
+  "file": "/root/workspace/zmap/src/get_gateway.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/iterator.c.o   -c /root/workspace/zmap/src/iterator.c",
+  "file": "/root/workspace/zmap/src/iterator.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/monitor.c.o   -c /root/workspace/zmap/src/monitor.c",
+  "file": "/root/workspace/zmap/src/monitor.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/recv.c.o   -c /root/workspace/zmap/src/recv.c",
+  "file": "/root/workspace/zmap/src/recv.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/send.c.o   -c /root/workspace/zmap/src/send.c",
+  "file": "/root/workspace/zmap/src/send.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/shard.c.o   -c /root/workspace/zmap/src/shard.c",
+  "file": "/root/workspace/zmap/src/shard.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/socket.c.o   -c /root/workspace/zmap/src/socket.c",
+  "file": "/root/workspace/zmap/src/socket.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/state.c.o   -c /root/workspace/zmap/src/state.c",
+  "file": "/root/workspace/zmap/src/state.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/summary.c.o   -c /root/workspace/zmap/src/summary.c",
+  "file": "/root/workspace/zmap/src/summary.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/validate.c.o   -c /root/workspace/zmap/src/validate.c",
+  "file": "/root/workspace/zmap/src/validate.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/ztopt_compat.c.o   -c /root/workspace/zmap/src/ztopt_compat.c",
+  "file": "/root/workspace/zmap/src/ztopt_compat.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/probe_modules/module_icmp_echo.c.o   -c /root/workspace/zmap/src/probe_modules/module_icmp_echo.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_icmp_echo.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/probe_modules/module_icmp_echo_time.c.o   -c /root/workspace/zmap/src/probe_modules/module_icmp_echo_time.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_icmp_echo_time.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/probe_modules/module_tcp_synscan.c.o   -c /root/workspace/zmap/src/probe_modules/module_tcp_synscan.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_tcp_synscan.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/probe_modules/module_tcp_synackscan.c.o   -c /root/workspace/zmap/src/probe_modules/module_tcp_synackscan.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_tcp_synackscan.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/probe_modules/module_udp.c.o   -c /root/workspace/zmap/src/probe_modules/module_udp.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_udp.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/probe_modules/packet.c.o   -c /root/workspace/zmap/src/probe_modules/packet.c",
+  "file": "/root/workspace/zmap/src/probe_modules/packet.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/probe_modules/probe_modules.c.o   -c /root/workspace/zmap/src/probe_modules/probe_modules.c",
+  "file": "/root/workspace/zmap/src/probe_modules/probe_modules.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/probe_modules/module_ntp.c.o   -c /root/workspace/zmap/src/probe_modules/module_ntp.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_ntp.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/probe_modules/module_upnp.c.o   -c /root/workspace/zmap/src/probe_modules/module_upnp.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_upnp.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/probe_modules/module_dns.c.o   -c /root/workspace/zmap/src/probe_modules/module_dns.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_dns.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/probe_modules/module_bacnet.c.o   -c /root/workspace/zmap/src/probe_modules/module_bacnet.c",
+  "file": "/root/workspace/zmap/src/probe_modules/module_bacnet.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/output_modules/module_csv.c.o   -c /root/workspace/zmap/src/output_modules/module_csv.c",
+  "file": "/root/workspace/zmap/src/output_modules/module_csv.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/output_modules/module_json.c.o   -c /root/workspace/zmap/src/output_modules/module_json.c",
+  "file": "/root/workspace/zmap/src/output_modules/module_json.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/output_modules/output_modules.c.o   -c /root/workspace/zmap/src/output_modules/output_modules.c",
+  "file": "/root/workspace/zmap/src/output_modules/output_modules.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/tests/test_harness.c.o   -c /root/workspace/zmap/src/tests/test_harness.c",
+  "file": "/root/workspace/zmap/src/tests/test_harness.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/lexer.c.o   -c /root/workspace/zmap/build/src/lexer.c",
+  "file": "/root/workspace/zmap/build/src/lexer.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/parser.c.o   -c /root/workspace/zmap/build/src/parser.c",
+  "file": "/root/workspace/zmap/build/src/parser.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/socket-linux.c.o   -c /root/workspace/zmap/src/socket-linux.c",
+  "file": "/root/workspace/zmap/src/socket-linux.c"
+},
+{
+  "directory": "/root/workspace/zmap/build/src",
+  "command": "/usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/build/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99 -g   -o CMakeFiles/ztests.dir/recv-pcap.c.o   -c /root/workspace/zmap/src/recv-pcap.c",
+  "file": "/root/workspace/zmap/src/recv-pcap.c"
+}
+]
