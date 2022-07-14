@@ -79,7 +79,7 @@ typedef uint8_t bool;
 probe_module_t module_dns;
 static int num_ports;
 
-const char default_domain[] = "www.google.com";
+const char default_domain[] = "www.baidu.com";
 const uint16_t default_qtype = DNS_QTYPE_A;
 
 static char **dns_packets;
@@ -770,6 +770,7 @@ int dns_make_packet(void *buf, size_t *buf_len,
 		memcpy(payload, dns_packets[probe_num],
 		       dns_packet_lens[probe_num]);
 	}
+	
 	*buf_len = sizeof(struct ether_header) + sizeof(struct ip) +
 				sizeof(struct udphdr) + dns_packet_lens[probe_num];
 	ip_header->ip_src.s_addr = src_ip;

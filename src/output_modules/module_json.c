@@ -124,14 +124,71 @@ int json_output_to_file(fieldset_t *fs)
 	return EXIT_SUCCESS;
 }
 
-int json_output_file_close(UNUSED struct state_conf *c,
+int json_output_file_close(struct state_conf *c,
 			   UNUSED struct state_send *s,
 			   UNUSED struct state_recv *r)
 {
 	if (file) {
 		fflush(file);
 		fclose(file);
+		
+		if (!(file = fopen(c->output_filename, "r"))) {
+			log_fatal("output-json",
+					"could not open JSON output file (%s) for read: %s",
+					c->output_filename, strerror(errno));
+			return EXIT_SUCCESS;
+		}
+
+		json_tokener* tokener = json_tokener_new();
+		enum json_tokener_error jerr = json_tokener_error_parse_eof;
+		json_object* json = json_object_new_array();
+		char buf[1024];
+		size_t n = 0;
+		json_object* unit = NULL;
+		while(!feof(file)) {
+			do {
+				if (fgets(buf, 1024, file) == NULL){
+					if (!feof(file) && ferror(file)){
+						log_error("json output", "Json file read error: %s", strerror(errno));
+						unit = NULL;
+						break;
+					}
+				}
+				n = strlen(buf);
+				unit = json_tokener_parse_ex(tokener, buf, n);
+				
+			} while((jerr = json_tokener_get_error(tokener)) == json_tokener_continue);
+			
+			if (jerr != json_tokener_success)
+			{
+				log_error("json output", "Error: %s\n", json_tokener_error_desc(jerr));
+				printf("buf: %s\n", buf);
+				// Handle errors, as appropriate for your application.
+			} else{
+				if (unit){
+					// printf("%s\n", json_object_to_json_string(unit));
+					json_object_array_add(json, unit);
+				} else {
+					log_error("json output", "Unit is NULL!");
+				}
+			}
+		}
+		fclose(file);
+		json_tokener_free(tokener);
+
+		if (!(file = fopen(c->output_filename, "w"))) {
+			log_fatal("output-json",
+					"could not open JSON output file (%s) for write: %s",
+					c->output_filename, strerror(errno));
+		} else{
+			fprintf(file, "%s", json_object_to_json_string_ext(json, JSON_C_TO_STRING_PRETTY_TAB));
+			fflush(file);
+			fclose(file);
+		}		
+		
+		json_object_put(json);
 	}
+
 	return EXIT_SUCCESS;
 }
 

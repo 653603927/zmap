@@ -14,6 +14,12 @@
         "assert.h": "c",
         "includes.h": "c",
         "module_udp.h": "c",
-        "fieldset.h": "c"
+        "fieldset.h": "c",
+        "json.h": "c",
+        "json_util.h": "c",
+        "json_tokener.h": "c",
+        "json_object_iterator.h": "c",
+        "json_pointer.h": "c",
+        "json_object.h": "c"
     }
 }

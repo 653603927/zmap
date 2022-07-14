@@ -3,15 +3,12 @@ make: Entering directory '/root/workspace/zmap'
 /usr/bin/cmake -S/root/workspace/zmap -B/root/workspace/zmap --check-build-system CMakeFiles/Makefile.cmake 0
 /usr/bin/cmake -E cmake_progress_start /root/workspace/zmap/CMakeFiles /root/workspace/zmap/CMakeFiles/progress.marks
 make -f CMakeFiles/Makefile2 all
- 
 make[1]: Entering directory '/root/workspace/zmap'
 make -f lib/CMakeFiles/zmaplib.dir/build.make lib/CMakeFiles/zmaplib.dir/depend
- 
 make[2]: Entering directory '/root/workspace/zmap'
 cd /root/workspace/zmap && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /root/workspace/zmap /root/workspace/zmap/lib /root/workspace/zmap /root/workspace/zmap/lib /root/workspace/zmap/lib/CMakeFiles/zmaplib.dir/DependInfo.cmake --color=
 make[2]: Leaving directory '/root/workspace/zmap'
 make -f lib/CMakeFiles/zmaplib.dir/build.make lib/CMakeFiles/zmaplib.dir/build
- 
 make[2]: Entering directory '/root/workspace/zmap'
 /usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/root/workspace/zmap/CMakeFiles --progress-num=50 "Building C object lib/CMakeFiles/zmaplib.dir/blocklist.c.o"
 cd /root/workspace/zmap/lib && /usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/lib  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99   -o CMakeFiles/zmaplib.dir/blocklist.c.o   -c /root/workspace/zmap/lib/blocklist.c
@@ -46,6 +43,7 @@ make[2]: Entering directory '/root/workspace/zmap'
 cd /root/workspace/zmap && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /root/workspace/zmap /root/workspace/zmap/src /root/workspace/zmap /root/workspace/zmap/src /root/workspace/zmap/src/CMakeFiles/git_versioning.dir/DependInfo.cmake --color=
 make[2]: Leaving directory '/root/workspace/zmap'
 make -f src/CMakeFiles/git_versioning.dir/build.make src/CMakeFiles/git_versioning.dir/build
+ 
 make[2]: Entering directory '/root/workspace/zmap'
 cd /root/workspace/zmap/src && /usr/bin/cmake -D ORIG_SRC_DIR:STRING="/root/workspace/zmap" -P /root/workspace/zmap/src/CMakeVersion.txt
 make[2]: Leaving directory '/root/workspace/zmap'
@@ -147,7 +145,6 @@ cd /root/workspace/zmap/src && /usr/bin/cmake -E cmake_link_script CMakeFiles/zm
 make[2]: Leaving directory '/root/workspace/zmap'
 /usr/bin/cmake -E cmake_echo_color --switch= --progress-dir=/root/workspace/zmap/CMakeFiles --progress-num=13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49 "Built target zmap"
 make -f src/CMakeFiles/zblocklist.dir/build.make src/CMakeFiles/zblocklist.dir/depend
- 
 make[2]: Entering directory '/root/workspace/zmap'
 /usr/bin/cmake -E cmake_echo_color --switch= --blue --bold --progress-dir=/root/workspace/zmap/CMakeFiles --progress-num= "Generating zbopt.h"
 cd /root/workspace/zmap/src && gengetopt -C --no-help --no-version -i /root/workspace/zmap/src/zbopt.ggo -F /root/workspace/zmap/src/zbopt
@@ -167,7 +164,6 @@ cd /root/workspace/zmap/src && /usr/bin/cmake -E cmake_link_script CMakeFiles/zb
 make[2]: Leaving directory '/root/workspace/zmap'
 /usr/bin/cmake -E cmake_echo_color --switch= --progress-dir=/root/workspace/zmap/CMakeFiles --progress-num=1,2,3 "Built target zblocklist"
 make -f src/CMakeFiles/ziterate.dir/build.make src/CMakeFiles/ziterate.dir/depend
- 
 make[2]: Entering directory '/root/workspace/zmap'
 /usr/bin/cmake -E cmake_echo_color --switch= --blue --bold --progress-dir=/root/workspace/zmap/CMakeFiles --progress-num=4 "Generating zitopt.h"
 cd /root/workspace/zmap/src && gengetopt -C --no-help --no-version --unamed-opts=SUBNETS -i /root/workspace/zmap/src/zitopt.ggo -F /root/workspace/zmap/src/zitopt
@@ -199,12 +195,15 @@ cd /root/workspace/zmap/src && /usr/bin/cmake -E cmake_link_script CMakeFiles/zi
 make[2]: Leaving directory '/root/workspace/zmap'
 /usr/bin/cmake -E cmake_echo_color --switch= --progress-dir=/root/workspace/zmap/CMakeFiles --progress-num=4,5,6,7,8,9,10,11,12 "Built target ziterate"
 make -f src/CMakeFiles/ztee.dir/build.make src/CMakeFiles/ztee.dir/depend
+ 
 make[2]: Entering directory '/root/workspace/zmap'
 /usr/bin/cmake -E cmake_echo_color --switch= --blue --bold --progress-dir=/root/workspace/zmap/CMakeFiles --progress-num=61 "Generating topt.h"
 cd /root/workspace/zmap/src && gengetopt -S --no-help --no-version --unamed-opts=FILE -i /root/workspace/zmap/src/topt.ggo -F /root/workspace/zmap/src/topt
 cd /root/workspace/zmap && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /root/workspace/zmap /root/workspace/zmap/src /root/workspace/zmap /root/workspace/zmap/src /root/workspace/zmap/src/CMakeFiles/ztee.dir/DependInfo.cmake --color=
 make[2]: Leaving directory '/root/workspace/zmap'
+ 
 make -f src/CMakeFiles/ztee.dir/build.make src/CMakeFiles/ztee.dir/build
+ 
 make[2]: Entering directory '/root/workspace/zmap'
 /usr/bin/cmake -E cmake_echo_color --switch= --blue --bold --progress-dir=/root/workspace/zmap/CMakeFiles --progress-num=61 "Generating topt.h"
 cd /root/workspace/zmap/src && gengetopt -S --no-help --no-version --unamed-opts=FILE -i /root/workspace/zmap/src/topt.ggo -F /root/workspace/zmap/src/topt
@@ -227,7 +226,6 @@ cd /root/workspace/zmap/src && flex -o /root/workspace/zmap/src/lexer.c --header
 cd /root/workspace/zmap && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /root/workspace/zmap /root/workspace/zmap/src /root/workspace/zmap /root/workspace/zmap/src /root/workspace/zmap/src/CMakeFiles/ztests.dir/DependInfo.cmake --color=
 make[2]: Leaving directory '/root/workspace/zmap'
 make -f src/CMakeFiles/ztests.dir/build.make src/CMakeFiles/ztests.dir/build
- 
 make[2]: Entering directory '/root/workspace/zmap'
 /usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/root/workspace/zmap/CMakeFiles --progress-num=67 "Building C object src/CMakeFiles/ztests.dir/aesrand.c.o"
 cd /root/workspace/zmap/src && /usr/bin/cc  -I/usr/include/json-c -I/root/workspace/zmap/src -I/root/workspace/zmap/lib -I/root/workspace/zmap/src/output_modules -I/root/workspace/zmap/src/tests  -Wall -Wformat=2 -Wno-format-nonliteral -pedantic -fno-strict-aliasing -Wextra -Wfloat-equal -Wundef -Wwrite-strings -Wredundant-decls -Wnested-externs -Wbad-function-cast -Winit-self -Wmissing-noreturn -Wstack-protector  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fstack-protector-all -fwrapv -fPIC --param ssp-buffer-size=1 -O2 -I/usr/include/json-c -std=gnu99   -o CMakeFiles/ztests.dir/aesrand.c.o   -c /root/workspace/zmap/src/aesrand.c
